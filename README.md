@@ -36,5 +36,4 @@ It provides insights into key metrics such as **Total Revenue, Total Profit, Pro
 2. Open it in **Power BI Desktop**.
 3. Interact with slicers and filters to explore data.
 
-## 📌 Project Impact
-- Automated repor
+
