@@ -28,8 +28,8 @@ It provides insights into key metrics such as **Total Revenue, Total Profit, Pro
   - Online vs Offline revenue split  
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)  
-*(Replace with actual screenshot file path in your repo)*
+<img width="635" height="343" alt="image" src="https://github.com/user-attachments/assets/b45d49c6-8522-4ea1-84e2-3ecf0e6a569c" />
+
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from the repository.
